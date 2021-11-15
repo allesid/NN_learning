@@ -1,2 +1,3 @@
 # NN_learning
-my neural networks studing
+My neural networks studing
+Selection of neural network parameters 
